@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292201991496",
+    "project_id": "loginvip-fc658",
+    "storage_bucket": "loginvip-fc658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201991496:android:9beda88b8f08ed0844377d",
+        "android_client_info": {
+          "package_name": "com.poco.loginpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201991496-1c52socnd68a4ojcaav8tfpbbc7v6ds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQh0lDzBB8fSuhl3FG6zaTHgqbIxQy6U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201991496-1c52socnd68a4ojcaav8tfpbbc7v6ds0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

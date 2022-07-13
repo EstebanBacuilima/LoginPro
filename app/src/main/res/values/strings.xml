@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginPro</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="login">Login</string>
+    <string name="register">Registrarse</string>
+    <string name="user">Username</string>
+    <string name="password">*********</string>
+    <string name="olvido">Forgot your password?</string>
+    <string name="emailVisible"> </string>
+    <string name="todo">logo</string>
+</resources>
